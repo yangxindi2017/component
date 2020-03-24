@@ -1,0 +1,13 @@
+
+#content{
+  margin:0 auto;
+  margin-top:20px;
+  text-align:center;
+}
+#echarts,#main,#txt{
+  margin:0 auto;
+}
+#echarts{
+  height:500px;
+  width:1000px;
+}
